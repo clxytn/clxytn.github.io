@@ -1,0 +1,515 @@
+html,
+body {
+    margin: auto;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fbfeff;
+}
+
+#b {
+    background-image: url(imgs/background.jpeg);
+    background-size: 300% 100%;
+    background-position: 60%;
+    background-repeat: no-repeat;
+}
+
+#g:hover {
+    padding: 1.1%;
+}
+
+#logo {
+    padding-bottom: 4%;
+    border: 1px solid transparent;
+    font-size: 108%;
+    text-align: center;
+    margin-top: -0.05%;
+    background-color: rgba(70, 70, 70, 0.62);
+    font-family: 'Tajawal', sans-serif;
+    line-height: 1.9;
+    padding-top: 0.5%;
+    color: white;
+}
+
+#top {
+    font-size: 155%;
+    font-family: 'Fira Sans', sans-serif;
+    text-shadow: 0px 0px 3px black;
+}
+
+#content {
+    padding: 2.1%;
+    background-color: rgba(70, 70, 70, 0.62);
+    margin-top: -4.8%;
+    padding-top: 3%;
+    text-align: center;
+}
+
+#content a {
+    text-decoration: none;
+    border: 2px solid #a9c43e;
+    border-radius: 2px;
+    padding: 0%;
+    background-color: rgba(169, 205, 62, 0.95);
+    line-height: 1.8;
+    color: black;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 113%;
+    font-weight: 600;
+    box-shadow: 0px 0px 2px white;
+    transition-duration: 0.5s;
+}
+
+#content a:hover {
+    padding: 1.6%;
+    background-color: white;
+}
+
+#services {
+    font-size: 110%;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 900;
+    color: black;
+    padding-top: 3%;
+}
+
+#our {
+    border-bottom: 1px solid #a9c43e;
+    padding-bottom: 5%;
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+}
+
+#about {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 120%;
+    text-shadow: 0px 0px 3px black;
+    padding-bottom: 1%;
+}
+
+.about2 {
+    color: black;
+    font-size: 115%;
+    font-family: 'Tajawal', sans-serif;
+    padding-top: 3%;
+    line-height: 1.9;
+    padding-bottom: 0.4%;
+}
+
+#two {
+    padding: 6%;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.include {
+    font-size: 118%;
+    font-weight: 600;
+    margin-bottom: 4%;
+}
+
+#mobileradio {
+    color: black;
+    padding: 3.5%;
+    font-size: 105%;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Tajawal', sans-serif;
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#contactinfo {
+    padding-left: 9%;
+}
+
+.features-holder {
+    padding-top: 12%;
+}
+
+#mobileRadioDesign2 {
+    padding-top: 12%;
+}
+
+#mobileRadioEval {
+    padding-top: 7%;
+}
+
+#aboutUs {
+    padding: 6%;
+    text-align: center;
+    line-height: 1.9;
+    color: black;
+    font-size: 115%;
+    font-family: 'Tajawal', sans-serif;
+}
+
+#aboutTitle {
+    border-bottom: 1px solid #a9c43e;
+    padding-bottom: 5%;
+    font-size: 166%;
+}
+
+#aboutTitle2 {
+    border-bottom: 1px solid #a9c43e;
+    padding-bottom: 5%;
+    font-size: 166%;
+}
+
+.contactInfo {
+    background-color: rgba(169, 196, 62, 0.6);
+    width: 90%;
+    margin: auto;
+    border-radius: 8px;
+    padding: 0%;
+    font-size: 105%;
+}
+
+#table {
+    margin: auto;
+    text-align: left;
+    padding-left: 2%;
+}
+
+#to-top-btn {
+    display: none;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    bottom: 5%;
+    right: 2%;
+    z-index: 99;
+    font-size: 110%;
+    border: none;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+#table1 {
+    margin-left: 13%;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#table2 {
+    margin-left: 15%;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#table3 {
+    margin-left: 13%;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#divs img {
+    width: 170px;
+    max-width: 170px;
+    height: 128px;
+}
+
+@media only screen and (min-width: 600px) {
+    #table1 {
+        margin-left: 18%;
+    }
+    #table2 {
+        margin-left: 34%;
+    }
+    #table3 {
+        margin-left: 23%;
+    }
+    #logo {
+        margin-left: -55%;
+        padding-bottom: 1%;
+    }
+    #content a {
+        padding: 1.3%;
+    }
+    #content {
+        margin-top: -1.38%;
+    }
+    #b {
+        background-size: 100%;
+    }
+    #contactinfo {
+        float: right;
+        text-align: justify;
+        padding: 1%;
+    }
+    #contactinfo a {
+        color: white;
+    }
+    #our {
+        padding-bottom: 2.5%;
+        margin-top: -15%;
+        font-size: 190%;
+    }
+    #two {
+        padding: 15%;
+        text-align: center;
+        line-height: 1.5;
+        padding-bottom: 5%;
+    }
+    #top {
+        font-size: 195%;
+    }
+    #mobileradio {
+        padding: 15%;
+        margin-top: -10%;
+        text-align: center;
+        line-height: 1.4;
+        font-family: 'Tajawal', sans-serif;
+    }
+    #mobileRadioContent {
+        display: flex;
+    }
+    .features-holder {
+        border: 0.1px solid #a9c43e;
+        padding-top: 0%;
+    }
+    #mobileRadioDesign2 {
+        border: 0.1px solid #a9c43e;
+        padding-top: 0%;
+        width: 65%;
+    }
+    #mobileRadioEval {
+        border: 0.1px solid #a9c43e;
+        padding-top: 0%;
+    }
+    #aboutUs {
+        padding: 15%;
+        margin-top: -10%;
+    }
+    .contactInfo {
+        width: 40%;
+        padding: 1%;
+    }
+    #table {
+        width: 70%;
+    }
+    #aboutTitle {
+        margin-top: -14%;
+    }
+    #aboutTitle2 {
+        margin-top: 0%;
+    }
+    #mbrTitle {
+        margin-top: -12%;
+    }
+    #pic {
+        height: 120px;
+        margin: 0%;
+        padding-left: 0%
+    }
+    #about {
+        font-size: 130%;
+    }
+}
+
+@media only screen and (min-width: 1000px) and (max-width:1200px) {
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    #pic {
+        margin-left: 4%;
+    }
+    #content {
+        margin-top: -1.7%;
+    }
+    #b {
+        background-size: cover;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width:1000px) {
+    #pic {
+        height: 115px;
+        width: 290px;
+        margin-left: 13%;
+    }
+    #content {
+        margin-top: -2.3%;
+    }
+    #b {
+        background-size: cover;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width:450px) {
+    #divs img {
+        padding: 1%;
+    }
+    #content a {
+        font-size: 90%;
+    }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1400px) {
+    #content {
+        margin-top: -1.31%;
+    }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 2200px) {
+    #table1 {
+        margin: auto;
+    }
+    #table2 {
+        margin: auto;
+    }
+    #table3 {
+        margin: auto;
+    }
+    #mobileRadioContent {
+        display: inline-flex;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 2200px) {
+    #content a {
+        line-height: 3;
+    }
+    #content {
+        margin-top: -.91%;
+    }
+    .about2 {
+        padding-bottom: 2%;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+    #content {
+        margin-top: -1.19%;
+    }
+}
+
+@media only screen and (min-width: 1700px) and (max-width: 1950px) {
+    #content {
+        margin-top: -0.95%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    #divs img {
+        width: 120px;
+        height: 90px;
+    }
+    #pic {
+        height: 144px;
+        width: 370px;
+        margin: 2%;
+        margin-left: 1%;
+    }
+    #sp {
+        margin-left: -6%;
+    }
+    #contactinfo {
+        font-weight: 800;
+        color: black;
+    }
+    #content {
+        margin-top: -5.2%;
+        padding-top: 11%;
+        background-color: rgba(30, 30, 30, 0.8);
+    }
+    #logo {
+        background-color: rgba(240, 240, 240, 0.9);
+        color: black;
+        font-size: 123%;
+        text-shadow: 0 0 0.5px black;
+    }
+    #services {
+        display: inline-grid;
+        width: 100%;
+    }
+    #content a {
+        padding: 3.8%;
+    }
+    #buttons a {
+        font-size: 77%;
+    }
+    #copy {
+        font-size: 80%;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    html,
+    body {
+        overflow-x: hidden;
+        width: auto;
+    }
+    #content a {
+        font-size: 90%;
+    }
+    #pic {
+        height: 125px;
+        width: 300px;
+    }
+    body {
+        margin: -1.1%;
+    }
+    #content {
+        margin-top: -6%;
+    }
+}
+
+@media only screen and (max-width:379px) {
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+    #buttons {
+        display: block;
+    }
+    #buttons a {
+        font-size: 80%;
+    }
+    #pic {
+        height: 120px;
+        width: 290px;
+        margin-left: 11%;
+    }
+    #content a {
+        padding: 3.2%;
+    }
+    #no {
+        white-space: nowrap;
+    }
+}
+
+@media only screen and (max-width:350px) {
+    #buttons {
+        display: block;
+    }
+    #content a {
+        font-size: 80%;
+    }
+    #buttons a {
+        font-size: 64%;
+    }
+    #no2 {
+        white-space: nowrap;
+    }
+    #no {
+        white-space: normal;
+    }
+}

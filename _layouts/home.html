@@ -1,0 +1,32 @@
+{% include head.html %}
+
+<head>
+    <title>Palidor Radio Communications Blog</title>
+    <link rel="stylesheet" type="text/css" href="../blog.css">
+    <style>
+        .header {
+            width: 100%;
+            padding-top: 6px;
+        }
+        
+        .full-logo-img {
+            width: 205px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+
+<div class="header">
+    <a class="full-logo-holder" href="/"><img alt="Palidor logo" class="full-logo-img" src="../imgs/logo-palidor-home.png" /></a>
+</div>
+
+<div class="blogs-holder">
+    {% for post in site.posts %}
+    <a class="blog-holder" href='{{ post.url }}'>
+        <div class="blog-date">{{ post.date | date: "%B %d, %Y" }}</div>
+        <div class="blog-title">{{ post.title }}</div>
+        <div class="blog-preview">{{ post.excerpt }}</div>
+    </a>
+</div>
+{% endfor %}
+</div>

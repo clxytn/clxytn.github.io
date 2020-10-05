@@ -1,0 +1,52 @@
+{% include head.html %}
+
+<head>
+    <title>{{ page.title }}</title>
+    <style>
+        .title {
+            font-weight: 700;
+            font-size: 220%;
+            margin: 2% 0 1% 0;
+            text-align: center;
+        }
+        
+        .date {
+            text-align: center;
+            color: grey;
+        }
+        
+        .content {
+            width: 70%;
+            margin: 6% auto;
+            color: grey;
+        }
+        
+        .header {
+            width: 100%;
+            padding-top: 6px;
+        }
+        
+        .full-logo-img {
+            width: 205px;
+            margin-left: 10px;
+        }
+        
+        @media only screen and (max-width: 800px) {
+            .title {
+                margin: 8% 0 1% 0;
+            }
+            .content {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+
+<div class="header">
+    <a class="full-logo-holder" href="/"><img alt="Palidor logo" class="full-logo-img" src="../../../../../imgs/logo-palidor-home.png" /></a>
+</div>
+
+
+<div class="title">{{ page.title }}</div>
+<div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+<div class="content">{{ content }}</div>
