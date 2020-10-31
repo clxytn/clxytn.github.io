@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /:title/
+kramdown:  
+  parse_block_html: true
