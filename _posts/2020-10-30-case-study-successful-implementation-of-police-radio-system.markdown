@@ -2,6 +2,10 @@
 layout: post
 title:  "Case Study: Successful Implementation Of Police Radio System"
 date:   2020-10-30 16:31:20 -0700
+description: "Our extensive radio frequency (RF) system design and project management experience
+combined with our strong technical skills and business knowledge enabled us to create the right
+system design using the right technology to meet the police department’s needs and
+expectations."
 ---
 We have been independent radio (wireless) communications consultants for almost 38 years.
 
