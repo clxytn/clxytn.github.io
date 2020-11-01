@@ -6,6 +6,9 @@
 .blog-holder {
     display: block;
     margin: 0 0 8% 0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 2px 2px 12px #e7e7f1;
 }
 
 a,
@@ -20,12 +23,13 @@ a:active {
 
 .blog-date {
     color: grey;
+    font-size: 90%;
 }
 
 .blog-title {
     font-weight: 700;
-    font-size: 250%;
-    margin: 0 0 1.5% 0;
+    font-size: 200%;
+    margin: 0 0 1% 0;
 }
 
 .blog-title:hover {
@@ -34,6 +38,7 @@ a:active {
 
 .blog-preview {
     font-size: 90%;
+    font-weight: 300;
 }
 
 @media only screen and (max-width: 800px) {
