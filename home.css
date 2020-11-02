@@ -67,6 +67,10 @@ body {
     background-color: white;
 }
 
+#buttons a {
+    margin: 0 4px;
+}
+
 #services {
     font-size: 110%;
     font-family: 'Tajawal', sans-serif;
@@ -407,6 +411,15 @@ h2 {
         overflow-x: hidden;
         width: 100%;
     }
+    #buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #buttons a {
+        margin: 2%;
+        flex: 0 35%;
+    }
     #divs img {
         width: 120px;
         height: 90px;
@@ -486,7 +499,7 @@ h2 {
     #pic {
         height: 120px;
         width: 290px;
-        margin-left: 11%;
+        margin-left: 8%;
     }
     #content a {
         padding: 3.2%;
