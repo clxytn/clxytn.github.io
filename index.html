@@ -13,6 +13,10 @@
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     <link rel="stylesheet" href="home.css">
 
+
+    <!-- Global site tag (gtag.js) - Google Ads: 481002828 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-481002828"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179586558-1"></script>
     <script>
@@ -22,8 +26,8 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
         gtag('config', 'UA-179586558-1');
+        gtag('config', 'AW-481002828');
     </script>
 
 </head>
@@ -35,7 +39,7 @@
         <div>
             <header>
                 <p id="logo"><img id="pic" src="imgs/logo-palidor-home.png" alt="palidor logo"><span id="contactinfo"><span id="sp">
-            Toll-Free: <a href="tel:1-866-987-3137" >1-866-987-3137</a></span><br>✆ <a href="tel:604-987-3137">604-987-3137</a><br> ✉ <a href="mailto:palidor@palidor.com">palidor@palidor.com</a></span>
+            Toll-Free: <a href="tel:1-866-987-3137" onclick="phoneLead()">1-866-987-3137</a></span><br>✆ <a href="tel:604-987-3137" onclick="phoneLead()">604-987-3137</a><br> ✉ <a href="mailto:palidor@palidor.com" onclick="emailLead()">palidor@palidor.com</a></span>
                 </p>
             </header>
             <div id="content">
@@ -180,11 +184,11 @@
             Call or email us <strong>without obligation or cost</strong> to discuss your radio/wireless communications needs.<br><br></p>
 
         <div class="contactInfo" style="line-height: 2.4">
-            <strong>Toll-Free:&nbsp;</strong> <a href="tel:1-866-987-3137">1-866-987-3137</a><br>
+            <strong>Toll-Free:&nbsp;</strong> <a href="tel:1-866-987-3137" onclick="phoneLead()">1-866-987-3137</a><br>
 
-            <strong>Phone:</strong> &nbsp; <a href="tel:604-987-3137">604-987-3137</a><br>
+            <strong>Phone:</strong> &nbsp; <a href="tel:604-987-3137" onclick="phoneLead()">604-987-3137</a><br>
 
-            <strong>Email:&nbsp;</strong> <a href="mailto:palidor@palidor.com">palidor@palidor.com</a><br>
+            <strong>Email:&nbsp;</strong> <a href="mailto:palidor@palidor.com" onclick="emailLead()">palidor@palidor.com</a><br>
 
 
         </div>
@@ -662,5 +666,30 @@
     function topFunction() {
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
+    }
+
+
+
+    function emailLead() {
+        var callback = function() {
+            return true;
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-481002828/hLlqCOHIm-cBEMyKruUB',
+            'event_callback': callback
+        });
+        return true;
+    }
+
+
+    function phoneLead() {
+        var callback = function() {
+            return true;
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-481002828/HEwYCM3ts-cBEMyKruUB',
+            'event_callback': callback
+        });
+        return true;
     }
 </script>
