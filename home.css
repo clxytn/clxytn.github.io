@@ -490,9 +490,6 @@ h2 {
         overflow-x: hidden;
         width: 100%;
     }
-    #buttons {
-        display: block;
-    }
     #buttons a {
         font-size: 80%;
     }

@@ -13,8 +13,8 @@ The system operates in the lower 400 MHz frequency band. The radio channel frequ
 
 The mobile system provides reliable voice communications for handheld radios operating throughout 3 separate, large processing plants, the administration, the living quarters and the local City that is approximately 8 kilometers (5 miles) distance from the plants. 
 
-The processing plants are constructed entirely of complex steel structures with congested piping throughout  
-the plant areas. The plants include “bunker-grade” explosion resistant control rooms that required supplementary in-building distributed antenna systems (DAS) for handheld communications between personnel inside the buildings with personnel throughout the plant operating areas. 
+The processing plants are constructed entirely of complex steel structures with congested piping throughout the plant areas.
+The plants include “bunker-grade” explosion resistant control rooms that required supplementary in-building distributed antenna systems (DAS) for handheld communications between personnel inside the buildings with personnel throughout the plant operating areas. 
 
 The mobile system also provides direct mobile communications between shore-based handheld radio users and personnel on the production platforms that are located in the Gulf of Guinea over 32 kilometers distance (20 miles) from shore.
 A separate mobile radio system was also implemented for handheld radio communications between personnel operating on the 3 production platforms. 
