@@ -35,7 +35,7 @@ Consequently, the project was a continual flurry of disconnected and unplanned a
 because of our client’s apparent lack of strong, competent project direction that ultimately
 resulted in disappointment for us and our client and premature contract termination.
 
-###What we re-learned from this experience (and never should have forgotten)
+### What we re-learned from this experience (and never should have forgotten)
 
 - Never assume a large and apparently successful company has the sophistication,
 structure, discipline and knowledge to understand and integrate very specialized expertise (that
@@ -48,7 +48,7 @@ disciplined plan with clear, defined tasks, schedules, milestones and deliverabl
 - Never lose sight of what it takes for a sound, strong, practical and enforceable project
 management plan and process to ensure project success.
 
-##Project Management Essentials For Success
+## Project Management Essentials For Success
 
 After 38 years and dozens of projects, we still need to be continually diligent throughout each
 project, that the essentials for strong and successful project management are always forefront
@@ -61,7 +61,7 @@ Every successful project needs all the ingredients below.
 Any of the following that are not fully embraced, dramatically increases the risks of project
 failure.
 
-###So, what is essential for sound, practical project management plan and strong competent project management?
+### So, what is essential for sound, practical project management plan and strong competent project management?
 
 Strong project leadership with:
 
