@@ -27,13 +27,9 @@ We were recently involved as a sub consultant (subject matter expert) on a large
 which required us to rely on our client (our prime consultant) for the project management of our
 portion of the work.
 
-It eventually became clear to us that the client appeared to lack the project management
-resources and seemed to ignore the project management fundamentals, regrettably which we
-belatedly discovered.
+It eventually became clear to us that the client (the prime consultant) appeared to be short on project management resources or ignored project management fundamentals for its sub consultants, which we regrettably discovered too late.
 
-Consequently, the project was a continual flurry of disconnected and unplanned activities
-because of our client’s apparent lack of strong, competent project direction that ultimately
-resulted in disappointment for us and our client and premature contract termination.
+Consequently, the project was a continual flurry of disconnected and unplanned activities because of our client’s apparent lack of strong, (or maybe competent) project direction  that ultimately resulted in disappointment for us and our client and premature contract termination.
 
 ### What we re-learned from this experience (and never should have forgotten)
 
