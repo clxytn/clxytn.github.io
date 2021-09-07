@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Make Your Radio Communications Project Succeed"
+title:  "Radio Communications Systems - Recipe for Project Success"
 date:   2021-09-06 12:31:20 -0700
 description: "Our business is built and continues to rely on completing every project successfully.
 Each project is a reference for our next project. A project failure reduces our chances to
