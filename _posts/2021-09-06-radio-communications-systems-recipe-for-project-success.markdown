@@ -2,10 +2,7 @@
 layout: post
 title:  "Radio Communications Systems - Recipe for Project Success"
 date:   2021-09-06 12:31:20 -0700
-description: "Our business is built and continues to rely on completing every project successfully.
-Each project is a reference for our next project. A project failure reduces our chances to
-continue to be successful, not to mention the losses associated with the failure.
-"
+description: "Our business is built and continues to rely on completing every project successfully. Each project is a reference for our next project. A project failure reduces our chances to continue to be successful, not to mention the losses associated with the failure."
 ---
 What is project success? The project is completed on time, within budget and meets all client’s
 needs and expectations.
