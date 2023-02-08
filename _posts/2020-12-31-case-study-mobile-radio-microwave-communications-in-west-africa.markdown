@@ -2,9 +2,7 @@
 layout: post
 title:  "Case Study: Mobile Radio & Microwave Communications Systems in West Africa"
 date:   2020-12-31 16:31:20 -0700
-description: "Since 2008, we have been fortunate to be the mobile radio and microwave communications system consultants for a large oil and gas operation in West Africa.
-The facilities include 3  production platforms in the Gulf of Guinea, and 3 expansive complex processing plants on shore.
-"
+description: "Since 2008, we have been fortunate to be the mobile radio and microwave communications system consultants for a large oil and gas operation in West Africa. The facilities include 3  production platforms in the Gulf of Guinea, and 3 expansive complex processing plants on shore."
 ---
 Since 2008, we have been fortunate to be the mobile radio and microwave communications system consultants for a large oil and gas operation in West Africa.  The facilities include 3  production platforms in the Gulf of Guinea, and 3 expansive complex processing plants on shore.
 
@@ -40,9 +38,9 @@ For all the above, PALIDOR had full responsibility working with the Client’s p
 
 The Contractors for the supply and installation of the mobile radio and microwave communications systems were North American based Companies ( 1 from Canada, and 1 from the USA).  All personnel were based in North America. 
 
-##CHALLENGES
+## CHALLENGES
 
-###Technical Challenges
+### Technical Challenges
 
 The biggest technical challenge was the design of the 32 km (20 mile) over-the-water microwave link.
 
@@ -60,7 +58,7 @@ The system ultimately included a main radio communications tower and facility an
 
 A mobile radio system was also implemented on the production platforms in the Gulf of Guinea for handheld radio communications between personnel on the 3 platforms. 
 
-###Implementation & Logistical Challenges
+### Implementation & Logistical Challenges
 
 The major implementation challenges were logistical.
 
@@ -89,13 +87,13 @@ All Contractor’s personnel required pre-clearance by the West Africa Country�
 No effort was spared in the planning and preparation stages in North America before the equipment and materials were packed and shipped.   
 
 
-##OUTCOME
+## OUTCOME
 
 The entire implementation process and the commissioning of the radio systems were completed without serious incidents.
 
 All design and installation specifications were met and the system was successfully accepted, commissioned and placed into operation without any  changes to the equipment or the system design. 
 
-##What Did We Learn?
+## What Did We Learn?
 
 Something we have always known, but worth repeating again and again:
 
@@ -115,4 +113,10 @@ Success in this case is defined as:
 - The project is completed on-time.
 
 We can unequivocally declare the project was, and still is a success.
+
+
+## EPILOGUE
+
+We are now in the process of assisting with an upgrade to the system to replace the aging
+equipment and to convert the system from analog to Digital Mobile Radio (DMR).
 
