@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Case Study: Successful Implementation Of Police Radio System"
-date:   2020-10-30 16:31:20 -0700
+date:   2023-02-01 16:31:20 -0700
 description: "Our extensive radio frequency (RF) system design and project management experience
 combined with our strong technical skills and business knowledge enabled us to create the right
 system design using the right technology to meet the police department’s needs and
 expectations."
 ---
-We have been independent radio (wireless) communications consultants for almost 38 years.
+We have been independent radio (wireless) communications consultants for over 40 years.
 
-Although we have prided ourselves on the success of each of our approximately 80 projects, the
+Although we have prided ourselves on the success of each of our approximately 90 projects, the
 recent success of the design and implementation of a new police department mobile radio
 communications system once again proved the importance of adhering to an established,
 structured project management and system design process from concept to commissioning, and
@@ -116,3 +116,12 @@ Something we have always known, but worth repeating again:
 
 There is no substitute for structured, experienced planning, extensive technical expertise and
 skills, sound cooperative project management, and buy-in by all stakeholders.
+
+## EPILOGUE
+
+We are now in the process of completing the design and implementation of an expansion of the
+system to add the fire department to the existing police system infrastructure.
+
+The fire system also includes an in-building coverage solution for the hospital and transportable
+repeaters for fire department extended coverage when firefighters are inside structures with
+heavy RF shielding in confined spaces and isolated spaces.
